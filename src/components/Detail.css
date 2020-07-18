@@ -1,0 +1,11 @@
+#detail .row{
+    display: flex;
+}
+
+#detail .row img{
+width: 200px;
+height: 200px;
+}
+#detail .row #content{
+    margin-left: 20px;
+}

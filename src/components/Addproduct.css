@@ -1,0 +1,16 @@
+.ProductItem #content{
+    margin-top: 20px;
+}
+.ProductItem #content .thumbnail{
+ margin-top: 20px;
+}
+.ProductItem #content #cont .thumbnail .caption button #deta{
+    color: white;
+}
+.ProductItem #content #cont .thumbnail .caption button {
+margin-left: 10px;
+}
+.container .row table tr td img{
+    width: 150px;
+    height: 150px;
+}

@@ -1,0 +1,26 @@
+div table #thanhtoan{
+   margin-right:-200px;
+   color: rebeccapurple;
+   margin-right: 300px;
+}
+.container-fuild #thanhtoan{
+   float: right;
+}
+.container-fuild #tablepay{
+width: 400px;
+}
+.container-fuild .hinhthuc {
+   width: 200px;
+}
+.container-fuild #box{
+   display: inline;
+}
+.container-fuild{
+   margin-top: 30px;
+}
+.container-fuild #dathang button{
+width: 400px;
+}
+.Cart #thanhtoan button {
+   color: white;
+}
